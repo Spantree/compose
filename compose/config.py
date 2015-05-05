@@ -30,6 +30,7 @@ DOCKER_CONFIG_KEYS = [
     'stdin_open',
     'tty',
     'user',
+    'ulimit',
     'volumes',
     'volumes_from',
     'working_dir',
